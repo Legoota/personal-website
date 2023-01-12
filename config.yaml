@@ -6,7 +6,7 @@ googleAnalytics: '' # todo: set your analytics id.
 
 params:
   image: /images/banner.png
-  subtitle: Ingénieur informatique, photographie amateur, restauration d'anciennes, et autres.
+  subtitle: IT engineer, casual photographer, old car restorer, and a few more.
   copyright: All rights reserved.
   author: Léo Krebs
   dontShowSource: true # please, do not do this :) => I promise to make it appear somewhere else in the future
@@ -22,15 +22,14 @@ params:
         archive: 3
         people: 1
   socials:
-    # todo: change these links.
     - icon: 'far fa-envelope fa-lg'
-      url: 'mailto:eternity@bora.sh'
+      url: 'mailto:leo@leokr.fr'
       landing: true
     - icon: 'fab fa-github fa-lg'
       url: https://github.com/Legoota
       landing: true
     - icon: 'fab fa-instagram fa-lg'
-      url: 'https://instagram.bora.sh/eternity'
+      url: 'https://www.instagram.com/legoo_k/'
     - icon: 'fab fa-linkedin-in fa-lg'
       url: 'https://www.linkedin.com/in/leokrebs/'
   homepage: "/work" # homepage link, mostly same with menu.main[0]
