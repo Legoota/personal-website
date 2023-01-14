@@ -5,7 +5,7 @@ images:
 title: people 10
 date: 2022-07-23
 tags:
-- work # homepage
+- home # homepage
 - archive # all posts
 - people
 ---
