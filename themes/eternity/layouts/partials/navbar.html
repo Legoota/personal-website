@@ -5,13 +5,13 @@
 <nav class="navbar" role="navigation" aria-label="main navigation">
     <div class="navbar-start">
         <div class="logo">
-            <a href={{ relref . $homeLink }}>
+            <a href={{ $homeLink }}>
                 <img class="logo" src={{ "logo.png" | absURL }}>
             </a>
         </div>
     </div>
     <div class="navbar-middle">
-        <a class="a-clean" href={{ relref . $homeLink }}><p class="welcome-title">{{ .Site.Title }}</p></a>
+        <a class="a-clean" href={{ $homeLink }}><p class="welcome-title">{{ .Site.Title }}</p></a>
         {{ if not .IsHome }}
             {{ if and .Site.Menus .Site.Menus.main }}
                 <div class="menu">
