@@ -2,14 +2,14 @@ baseURL: https://leokr.fr
 title: Léo Krebs
 defaultContentLanguage: 'en'
 theme: eternity
-googleAnalytics: '' # todo: set your analytics id.
+googleAnalytics: ''
 
 params:
   image: /images/banner.png
   subtitle: IT engineer, casual photographer, old car restorer, and a few more.
   copyright: All rights reserved.
   author: Léo Krebs
-  dontShowSource: true # please, do not do this :) => I promise to make it appear somewhere else in the future
+  dontShowSource: true
   portfolio:
     columns:
       desktop:
@@ -37,7 +37,7 @@ params:
     - home
     - archive
   bypassWelcomePage: false # redirects "/" to "homepage" when it's true.
-  plausible: '' # todo: set your plausible id.
+  plausible: ''
   disableRadius: false
   moveIt: false  # Moves Title and Meta info down, only visible when scroll.
   disableAlwaysResize: false

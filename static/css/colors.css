@@ -5,10 +5,9 @@
     --dark-light: #101010;
     --white: whitesmoke;
     --grey: rgb(169, 169, 169);
+    --light-cyan: #d1faffff;
+    --light-blue: #9bd1e5ff;
+    --shadow-blue: #6a8eaeff;
+    --forest-green-crayola: #57a773ff;
+    --dark-spring-green: #157145ff;
 }
-
-/* --light-cyan: #d1faffff;
---light-blue: #9bd1e5ff;
---shadow-blue: #6a8eaeff;
---forest-green-crayola: #57a773ff;
---dark-spring-green: #157145ff; */
