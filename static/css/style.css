@@ -21,6 +21,7 @@
 .welcome-title {
     text-align: center;
     font-size: 2em;
+    color: var(--dark-spring-green);
 }
 
 .welcome-subtitle {
@@ -49,6 +50,10 @@
 
 .social {
     margin-right: 20px;
+}
+
+.social > a {
+    color: var(--dark-spring-green);
 }
 
 .work {

@@ -78,7 +78,7 @@ a.active {
 
 a:hover,
 a.active {
-    border-bottom: 5px solid var(--main);
+    border-bottom: 5px solid var(--forest-green-crayola);
 }
 
 .a-clean:hover,
@@ -87,13 +87,13 @@ a-clean.active {
 }
 
 ::-moz-selection {
-    background: var(--main);
+    background: var(--forest-green-crayola);
     text-shadow: none;
     color: #fff;
 }
 
 ::selection {
-    background: var(--main);
+    background: var(--forest-green-crayola);
     text-shadow: none;
     color: #fff;
 }
