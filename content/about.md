@@ -19,4 +19,4 @@ hideDate: true
 
 ### Acknowledgements
 
-Website created using [**Hugo**](https://gohugo.io/), using the [**Eternity theme**](https://github.com/boratanrikulu/eternity).
+Website created using [**Hugo**](https://gohugo.io/), using the [**Eternity theme**](https://github.com/boratanrikulu/eternity), modified.
