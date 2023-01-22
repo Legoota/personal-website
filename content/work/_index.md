@@ -5,24 +5,14 @@ url: home
 
 <div align="center">
 	<p>
-        Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel.
+        Homepage of personal website
 	</p>
 	<p>
-		This is demo site for <strong>Eternity</strong> theme. All images are taken from Unsplash.
+		Usable HTML yay
 	</p>
 </div>
 
 #### Features
 
-- **Configurable** features.
-
-- **Multiple images** support.
-
-- Clean, fresh, **minimalist**.
-
-- Integrated **lazy load**.
-
-- Automaticly creates **resized** thumbnails.
-
-- Shows **exif** if it exists.
+- **Cool** markdown features as well
 
