@@ -1,11 +1,13 @@
 ---
-weight: 1
+weight: 2
 images:
-- https://source.unsplash.com/random?people&25351231
-title: people 3
+- https://source.unsplash.com/random?people&2318124
+title: people 10
 date: 2022-07-23
 tags:
-- people
+- home # homepage
+- archive # all posts
+- urban
 ---
 
 ## Markdown

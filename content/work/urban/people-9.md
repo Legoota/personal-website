@@ -1,12 +1,14 @@
 ---
-weight: 6
+weight: 9
 images:
-- https://source.unsplash.com/random?people&13803
-title: people 6
+- https://source.unsplash.com/random?people&10361
+- https://source.unsplash.com/random?people&234123
+title: people 9
+multipleColumn: true
 date: 2022-07-23
 tags:
 - archive # all posts
-- people
+- urban
 ---
 
 ## Markdown
