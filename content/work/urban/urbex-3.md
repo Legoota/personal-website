@@ -6,8 +6,11 @@ images:
 - /images/explo/covent3.jpg
 - /images/explo/random1.jpg
 title: Abandonned convent
+#multipleColumn: true
 date: 2022-08-21
 tags:
+- home # Display on homepage
+- archive # Display on archive page (all)
 - urban
 - urbex
 ---
