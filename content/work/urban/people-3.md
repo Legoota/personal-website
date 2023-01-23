@@ -1,27 +1,24 @@
 ---
 weight: 1
 images:
-- https://source.unsplash.com/random?people&25351231
-title: people 3
-date: 2022-07-23
+- /images/explo/covent1.jpg
+- /images/explo/covent2.jpg
+- /images/explo/covent3.jpg
+- /images/explo/random1.jpg
+title: Abandonned convent
+date: 2022-08-21
 tags:
 - urban
+- urbex
 ---
 
-## Markdown
+## Abandonned convent
 
-You can use **Markdown** format to write **your story**.
+A small convent in the alsacian wineyards. Besides a cat that scared us at the end, it was a very calm and relaxing visit. Lots of small empty rooms, a chapel, kitchen, interior garden.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid! 
+Last picture was to finish the roll: we stumbled across some hang-gliders flying.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!
+### Photo details
 
-### Subtitle
+Second part of my BGC PHC-50 film roll. I think the blacks are really deep, and the 50 ISO + use of flash really made these look dramatic.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dolorem, laborum impedit doloremque ducimus repellat sapiente aut qui quae provident, cum vitae atque eius earum labore. Quae quod rem aliquid!
-
-Some list
-
-1. A b c
-2. A b c
-3. A b c 
