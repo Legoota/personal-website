@@ -13,7 +13,7 @@ params:
   portfolio:
     columns:
       desktop:
-        nature: 4
+        alpinaraid: 3
         archive: 6
         urban: 2
         default: 3
@@ -62,8 +62,8 @@ menu:
     - name: urban
       url: /tags/urban/
       weight: 2
-    - name: nature
-      url: /tags/nature/
+    - name: alpinaraid
+      url: /tags/alpinaraid/
       weight: 3
     - name: archive
       url: /tags/archive/
