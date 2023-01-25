@@ -14,10 +14,12 @@ tags:
 - city
 ---
 
-## Markdown
+## Helsinki 2
 
-Helsinki 2
+Second series of pictures from my Helsinki trip. This time, it is consacred to the University's Botanical garden (*Kaisaniemen kasvitieteellinen puutarha*).
 
 ### Photo details
 
-Rollei 35S + Tri-X 400
+For these pictures, I had to play with the focus ring on the Rollei 35S, to get the focus on objects not in the infinite range. It is a bit imprecise, but some pictures turned out great.
+
+Rollei 35S + Kodak Tri-X 400.
