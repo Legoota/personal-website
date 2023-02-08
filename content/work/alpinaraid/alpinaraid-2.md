@@ -13,8 +13,16 @@ tags:
 
 ## Alpinaraid 2
 
-Alpinaraid talk
+Here are the first pictures I took of our <i>Genesis Blue</i> Peugeot 205.
+
+The first image was shot at the Lac du Mont-Cenis. It really looks like we were all alone in this beautiful scenery.
+
+Second picture was taken somewhere in Italy, during a mountain pass downhill.
+
+Last photo was taken at Col du Glandon (1924 m).
 
 ### Photo details
 
 Rollei 35S + Fujifilm Superia Xtra
+
+I think the use of the Superia Xtra roll was a great choice for its pastel looking feel in the blue and green range. The car really stands out when taken in a green / gray background.
