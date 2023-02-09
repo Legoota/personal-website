@@ -17,7 +17,9 @@ tags:
 
 ## Alpinaraid 10
 
-Alpinaraid talk
+This last set from the Alpinaraid series regroup all pictures I took during our trip to come back home. We drove by the <i>Gorges du Verdon</i>, which is where I took the different pictures.
+
+It is a beautiful, natural place, that was unfortunately a bit dry when we were there.
 
 ### Photo details
 

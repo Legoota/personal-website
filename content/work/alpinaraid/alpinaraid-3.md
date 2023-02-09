@@ -17,14 +17,14 @@ tags:
 
 In this set, I decided to show various landscapes taken during the journey.
 
-The first image is one of my favourite from the two rolls I shot during the adventure. It was 5 minutes before we ended surronded by the clouds seen in the background, at the Colle delle Finestre (2176 m).
+The first image is one of my favourite from the two rolls I shot during the adventure. It was 5 minutes before we ended surronded by the clouds seen in the background, at the <i>Colle delle Finestre</i> (2176 m).
 
 Second image was taken during an uphill in an old italian military track.
 
-Third one was shot in the morning at Camping Le Gravelotte, just after our first camp night.<br/>
+Third one was shot in the morning at <i>Camping Le Gravelotte</i>, just after our first camp night.<br/>
 Fun fact: This website's homepage background image was shot right after the one you see here: I discovered that I could have cable cars going down and up at the same time in one picture.
 
-Last image was taken at Lago Nero during the third day of the adventure.
+Last image was taken at <i>Lago Nero</i> during the third day of the adventure.
 
 ### Photo details
 

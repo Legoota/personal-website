@@ -18,7 +18,7 @@ This is it. After months of preparation of our Peugeot 205, we finally started o
 
 In this 10 set series, you can find the film photographies that I took during the whole adventure.
 
-In this first set <i>Alpinaraid 1</i>, photos 1 and 2 were taken on the border of the Annecy Lake, in the early morning, on our way to the starting point at Col de la Madeleine (2000 m). The third photo was taken during the first day of the journey. I think it was the first glacier that we could see so well.
+In this first set <i>Alpinaraid 1</i>, photos 1 and 2 were taken on the border of the Annecy Lake, in the early morning, on our way to the starting point at <i>Col de la Madeleine</i> (2000 m). The third photo was taken during the first day of the journey. I think it was the first glacier that we could see so well.
 
 ### Photo details
 

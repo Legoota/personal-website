@@ -15,11 +15,11 @@ tags:
 
 Here are the first pictures I took of our <i>Genesis Blue</i> Peugeot 205.
 
-The first image was shot at the Lac du Mont-Cenis. It really looks like we were all alone in this beautiful scenery.
+The first image was shot at the <i>Lac du Mont-Cenis</i>. It really looks like we were all alone in this beautiful scenery.
 
 Second picture was taken somewhere in Italy, during a mountain pass downhill.
 
-Last photo was taken at Col du Glandon (1924 m).
+Last photo was taken at <i>Col du Glandon</i> (1924 m).
 
 ### Photo details
 
