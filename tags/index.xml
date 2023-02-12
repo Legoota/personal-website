@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tags on Léo Krebs</title>
+    <link>https://leokr.fr/tags/</link>
+    <description>Recent content in tags on Léo Krebs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 21 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://leokr.fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>archive</title>
+      <link>https://leokr.fr/tags/archive/</link>
+      <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://leokr.fr/tags/archive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>home</title>
+      <link>https://leokr.fr/tags/home/</link>
+      <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://leokr.fr/tags/home/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>urban</title>
+      <link>https://leokr.fr/tags/urban/</link>
+      <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://leokr.fr/tags/urban/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>urbex</title>
+      <link>https://leokr.fr/tags/urbex/</link>
+      <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://leokr.fr/tags/urbex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bunny</title>
+      <link>https://leokr.fr/tags/bunny/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://leokr.fr/tags/bunny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nature</title>
+      <link>https://leokr.fr/tags/nature/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://leokr.fr/tags/nature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>space</title>
+      <link>https://leokr.fr/tags/space/</link>
+      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://leokr.fr/tags/space/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>alpinaraid</title>
+      <link>https://leokr.fr/tags/alpinaraid/</link>
+      <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://leokr.fr/tags/alpinaraid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>city</title>
+      <link>https://leokr.fr/tags/city/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://leokr.fr/tags/city/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
