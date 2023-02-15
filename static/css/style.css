@@ -113,7 +113,7 @@
 }
 
 nav.navbar {
-    background-color: var(--dark);
+    background-color: var(--dark-light);
     justify-content: people-between;
     align-items: center;
     height: unset !important;
@@ -351,7 +351,7 @@ section .column img {
 }
 
 .footer {
-    background-color: var(--dark);
+    background-color: var(--dark-light);
     color: rgb(245, 245, 245);
 }
 

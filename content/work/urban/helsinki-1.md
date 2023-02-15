@@ -1,5 +1,5 @@
 ---
-weight: 6
+weight: 10
 images:
 - /images/city/helsinki4.jpg
 - /images/city/helsinki2.jpg
@@ -9,7 +9,7 @@ images:
 title: Helsinki 1/3
 date: 2022-05-20
 tags:
-- archive # all posts
+- archive
 - urban
 - city
 ---

@@ -1,5 +1,5 @@
 .content strong {
-    color: var(--main);
+    color: var(--main-light);
 }
 
 .content .highlight code,
@@ -13,7 +13,7 @@
 
 .content p code,
 .content strong code {
-    color: var(--main);
+    color: var(--main-light);
     background-color: transparent;
     font-size: 1.1em;
     font-weight: 600;

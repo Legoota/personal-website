@@ -9,8 +9,8 @@ title: Abandonned convent
 #multipleColumn: true
 date: 2022-08-21
 tags:
-- home # Display on homepage
-- archive # Display on archive page (all)
+- home
+- archive
 - urban
 - urbex
 ---
