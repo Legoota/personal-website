@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>keyboard on Léo Krebs</title>
+    <link>https://leokr.fr/tags/keyboard/</link>
+    <description>Recent content in keyboard on Léo Krebs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 09 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://leokr.fr/tags/keyboard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TGR Alice Prototype</title>
+      <link>https://leokr.fr/work/keycap/keycap-1/</link>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://leokr.fr/work/keycap/keycap-1/</guid>
+      <description>TGR Alice Prototype One of the early prototypes made by Yuktsi from TGR, before the official run of the TGR Alice keyboard.
+This is the board that started the trend of Alice-like layouts.
+It is built with lubed vintage Cherry MX Browns, and the keyset used is ePBT&amp;rsquo;s Purple Hangul.
+Artisans Quantum Creep Typebeast from GAF and Dire Wire Moondrop from Nightcaps.</description>
+    </item>
+    
+    <item>
+      <title>E6V2 R2</title>
+      <link>https://leokr.fr/work/keycap/keycap-3/</link>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://leokr.fr/work/keycap/keycap-3/</guid>
+      <description>E6V2 R2 First first keyboard from a &amp;ldquo;true&amp;rdquo; Group Buy. E6V2 R2 was the second iteration of Exclusive&amp;rsquo;s E6V2, offering custom engraving in the top right badge, and top &amp;amp; bottom + middle pieces color combination choice.
+Built with Zeal Tealios (R10), lubed and stickered. Keyset on top is GMK Hyperfuse Origins.
+Artisans Two Kosmo v2 (Challenger and Columbia) from Omniclectic and KeyKollectiv, with a Sparkly Purple FPS Gamerset from Brocaps.</description>
+    </item>
+    
+    <item>
+      <title>HHKB Professionnal 2</title>
+      <link>https://leokr.fr/work/keycap/keycap-2/</link>
+      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://leokr.fr/work/keycap/keycap-2/</guid>
+      <description>PFU HHKB Professionnal 2 A full stock HHKB Pro 2. Topre switches.
+Artisans Queasy Green Skull from Clack Factory, and a matching Bianchi Celeste diamond-arrow set from KeyKollectiv.</description>
+    </item>
+    
+  </channel>
+</rss>

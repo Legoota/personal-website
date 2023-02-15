@@ -5,20 +5,38 @@
     <link>https://leokr.fr/tags/</link>
     <description>Recent content in tags on Léo Krebs</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 21 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://leokr.fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://leokr.fr/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>archive</title>
       <link>https://leokr.fr/tags/archive/</link>
-      <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://leokr.fr/tags/archive/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>artisan</title>
+      <link>https://leokr.fr/tags/artisan/</link>
+      <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://leokr.fr/tags/artisan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>keycap</title>
+      <link>https://leokr.fr/tags/keycap/</link>
+      <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://leokr.fr/tags/keycap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>home</title>
       <link>https://leokr.fr/tags/home/</link>
-      <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://leokr.fr/tags/home/</guid>
       <description></description>
@@ -43,38 +61,29 @@
     </item>
     
     <item>
-      <title>bunny</title>
-      <link>https://leokr.fr/tags/bunny/</link>
-      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://leokr.fr/tags/bunny/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>nature</title>
-      <link>https://leokr.fr/tags/nature/</link>
-      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://leokr.fr/tags/nature/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>space</title>
-      <link>https://leokr.fr/tags/space/</link>
-      <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://leokr.fr/tags/space/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>alpinaraid</title>
       <link>https://leokr.fr/tags/alpinaraid/</link>
       <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://leokr.fr/tags/alpinaraid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>car</title>
+      <link>https://leokr.fr/tags/car/</link>
+      <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://leokr.fr/tags/car/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>keyboard</title>
+      <link>https://leokr.fr/tags/keyboard/</link>
+      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://leokr.fr/tags/keyboard/</guid>
       <description></description>
     </item>
     
