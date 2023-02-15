@@ -5,7 +5,7 @@ images:
 title: GMK Universe Squatch
 date: 2021-10-16
 tags:
-- archive # all posts
+- archive
 - artisan
 - keycap
 ---

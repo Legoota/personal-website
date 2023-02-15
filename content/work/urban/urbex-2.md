@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 5
 images:
 - /images/explo/hotel5.jpg
 - /images/explo/hotel6.jpg

@@ -5,8 +5,8 @@ images:
 title: Charon's Charge Al Bumen
 date: 2022-08-20
 tags:
-- home # homepage
-- archive # all posts
+- home
+- archive
 - artisan
 - keycap
 ---

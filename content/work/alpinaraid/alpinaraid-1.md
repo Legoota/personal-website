@@ -7,8 +7,8 @@ images:
 title: Alpinaraid 1
 date: 2022-07-03
 tags:
-- home # homepage
-- archive # all posts
+- home
+- archive
 - alpinaraid
 ---
 

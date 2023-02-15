@@ -5,7 +5,7 @@ images:
 title: Last Bone Reaper
 date: 2022-02-12
 tags:
-- archive # all posts
+- archive
 - artisan
 - keycap
 ---

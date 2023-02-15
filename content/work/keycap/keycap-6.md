@@ -6,7 +6,7 @@ images:
 title: Drunken Skull
 date: 2022-06-25
 tags:
-- archive # all posts
+- archive
 - artisan
 - keycap
 ---

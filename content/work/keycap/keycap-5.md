@@ -6,7 +6,7 @@ images:
 title: BBv2 Berserk Eva
 date: 2023-01-22
 tags:
-- archive # all posts
+- archive
 - artisan
 - keycap
 ---

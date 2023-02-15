@@ -5,7 +5,7 @@ images:
 title: Unnamed Paranoid Reaper
 date: 2019-09-21
 tags:
-- archive # all posts
+- archive
 - artisan
 - keycap
 ---

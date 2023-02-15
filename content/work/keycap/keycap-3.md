@@ -6,8 +6,8 @@ images:
 title: E6V2 R2
 date: 2019-05-15
 tags:
-- home # homepage
-- archive # all posts
+- home
+- archive
 - keyboard
 - keycap
 ---

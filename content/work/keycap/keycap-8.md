@@ -5,7 +5,7 @@ images:
 title: Blackjack Reaper v1
 date: 2022-05-21
 tags:
-- archive # all posts
+- archive
 - artisan
 - keycap
 ---

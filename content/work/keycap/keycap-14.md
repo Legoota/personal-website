@@ -5,7 +5,7 @@ images:
 title: Lawn Flamingo Nerdvana
 date: 2022-10-16
 tags:
-- archive # all posts
+- archive
 - artisan
 - keycap
 ---

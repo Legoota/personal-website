@@ -1,11 +1,11 @@
 ---
-weight: 2
+weight: 4
 images:
 - /images/keycaps/hhkb.jpg
 title: HHKB Professionnal 2
 date: 2022-06-09
 tags:
-- archive # all posts
+- archive
 - keyboard
 - keycap
 ---

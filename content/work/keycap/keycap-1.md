@@ -6,7 +6,7 @@ images:
 title: TGR Alice Prototype
 date: 2019-05-15
 tags:
-- archive # all posts
+- archive
 - keyboard
 - keycap
 ---

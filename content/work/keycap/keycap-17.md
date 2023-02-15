@@ -5,7 +5,7 @@ images:
 title: Foiled-eyes Reapers
 date: 2022-04-24
 tags:
-- archive # all posts
+- archive
 - artisan
 - keycap
 ---

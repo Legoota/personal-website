@@ -5,7 +5,7 @@ images:
 title: BBW Vaporwave
 date: 2021-08-20
 tags:
-- archive # all posts
+- archive
 - artisan
 - keycap
 ---
