@@ -1,22 +1,24 @@
 ---
 images:
 - /images/about.png
-title: about
+title: About
 url: about
-hideTitle: true
+hideTitle: false
 hideExif: true
 hideDate: true
 ---
 
-<div align="center">
-	<p>
-        Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel.
-	</p>
-	<p>
-		This is demo site for <strong>Eternity</strong> theme. All images are taken from Unsplash.
-	</p>
-</div>
+### Contact
 
-### Acknowledgements
+Do not hesitate to contact me, on Github or LinkedIn, depending on what you are interested in.
 
-Website created using [**Hugo**](https://gohugo.io/), using the [**Eternity theme**](https://github.com/boratanrikulu/eternity), modified.
+
+### About this website
+
+This website was made by myself, you can find the Github repository [**here**](https://github.com/Legoota/personal-website).
+
+It was created using [**Hugo**](https://gohugo.io/), with the [**Eternity theme**](https://github.com/boratanrikulu/eternity), modified.
+
+Images on this website are taken by me, unless explicitly written.
+
+I will try to update it regularly depending on my different projects' progresses.
