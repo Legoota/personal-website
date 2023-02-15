@@ -8,7 +8,6 @@ images:
 title: Abandonned hotel in the mountains 2/2
 date: 2022-08-20
 tags:
-- home
 - archive
 - urban
 - urbex

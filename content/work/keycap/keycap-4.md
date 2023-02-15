@@ -1,5 +1,5 @@
 ---
-weight: -2
+weight: 5
 images:
 - /images/keycaps/bumen-charon.jpg
 title: Charon's Charge Al Bumen

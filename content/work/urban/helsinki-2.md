@@ -9,6 +9,7 @@ images:
 title: Helsinki 2/3
 date: 2022-05-20
 tags:
+- home
 - archive
 - urban
 - city

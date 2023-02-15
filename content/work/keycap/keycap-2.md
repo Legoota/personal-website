@@ -5,6 +5,7 @@ images:
 title: HHKB Professionnal 2
 date: 2022-06-09
 tags:
+- home
 - archive
 - keyboard
 - keycap
