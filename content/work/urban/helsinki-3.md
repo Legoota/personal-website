@@ -16,7 +16,7 @@ tags:
 
 ## Helsinki 3
 
-Last series of pictures from my Helsinki trip. Some other great pieces of architecture:
+Last series of pictures from our Helsinki trip. Some other great pieces of architecture:
  - Second picture is the Finnish Parliament (*Eduskusta*)
  - Third picture depicts the *Vesikko* submarine, it was taken on the island of *Suomenlinna*
 

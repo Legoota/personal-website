@@ -16,7 +16,7 @@ tags:
 
 ## Helsinki 1
 
-First series of pictures from my Helsinki trip. I tried to capture there the city's architecture.
+First series of pictures from our Helsinki trip. I tried to capture there the city's architecture.
 There are some notable buildings:
  - Second picture is the exterior of the Amos Rex museum
  - Fourth picture is the *Kansallismuseo*
