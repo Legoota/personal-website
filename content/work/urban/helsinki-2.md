@@ -17,7 +17,7 @@ tags:
 
 ## Helsinki 2
 
-Second series of pictures from my Helsinki trip. This time, it is consacred to the University's Botanical garden (*Kaisaniemen kasvitieteellinen puutarha*).
+Second series of pictures from our Helsinki trip. This time, it is consacred to the University's Botanical garden (*Kaisaniemen kasvitieteellinen puutarha*).
 
 ### Photo details
 

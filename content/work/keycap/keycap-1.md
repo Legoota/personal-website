@@ -22,3 +22,7 @@ It is built with lubed vintage Cherry MX Browns, and the keyset used is ePBT's P
 ### Artisans
 
 Quantum Creep Typebeast from GAF and Dire Wire Moondrop from Nightcaps.
+
+### Photo credits
+
+Pictures taken by Maude Masini.

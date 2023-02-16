@@ -15,3 +15,7 @@ tags:
 Reaper from Brocaps.
 
 Colorway was a commission, it was not named at the time, so it became 'Unnamed Paranoid' in reference to its eyes effect.
+
+### Photo credits
+
+Pictures taken by Maude Masini.
